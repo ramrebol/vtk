@@ -1,0 +1,15 @@
+# vtk DataFile Version 3.0
+Plotting a 2D line from points on it
+ASCII
+
+DATASET POLYDATA
+POINTS 4 float
+0.25  0.25   0.00
+0.30  0.55   0.00
+0.50  0.65   0.00
+0.75  0.70   0.00
+
+LINES 3 9
+2 0 1
+2 1 2
+2 2 3

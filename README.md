@@ -8,4 +8,4 @@ Examples of VTK files
       Given a set of points (on a curve), plot the line joining them.
 
     > 3. ex3-line2.vtk
-      Given a set of points on a circle, plot the line joining them.
+      Given a set of points on a circle, plot straight lines joining them.
